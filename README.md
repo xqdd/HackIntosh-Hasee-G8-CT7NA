@@ -3,4 +3,4 @@
 
 > 源自 https://github.com/bufsnake/Z7-CT7NA-HackIntosh
 
-> 部分问题解答 https://github.com/bufsnake/Z7-CT7NA-HackIntosh/issues/2
+> 部分问题讨论和解答 https://github.com/bufsnake/Z7-CT7NA-HackIntosh/issues/2
